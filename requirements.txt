@@ -1,1 +1,1 @@
-requests
+requestsopenai-whisper
